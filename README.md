@@ -1,0 +1,2 @@
+# first-day-repoo
+exercice
